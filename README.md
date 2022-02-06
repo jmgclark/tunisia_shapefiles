@@ -63,4 +63,4 @@ Specific details on shapefile edits and coding choices can be found in `coding_n
 
 ## Methodology
 
-ADD.
+For detailed methodology, see Clark, Julia. 2021. "Mapping Municipal Change in Tunisia." American Political Science Association MENA Symposium, Spring 2021 Newsletter.
